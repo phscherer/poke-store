@@ -1,2 +1,2 @@
 ## Poké Store
-Aplicativo pessoal criado apenas com fins estudantis.
+Aplicativo pessoal criado apenas para fins estudantis.
