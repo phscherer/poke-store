@@ -1,13 +1,12 @@
 import React from 'react';
-import './stylesheets/App.css';
+import { BrowserRouter as Router } from 'react-router-dom';
+import Routes from './routes/index';
 
-function App() {
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <p>Welcome To Poké Store!</p>
-      </header>
-    </div>
+    <Router>
+      <Routes />
+    </Router>
   );
 }
 
