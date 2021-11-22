@@ -37,6 +37,6 @@ To run the project in development mode in your environment, run
 > open http://localhost:3000/
 ```
 
-## Technologies
+## Stack
 
 * [React.js](https://github.com/facebook/react)
